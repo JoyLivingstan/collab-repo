@@ -1,1 +1,1 @@
-This is b.txt created by me 
+This is the first line of b.txt
